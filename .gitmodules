@@ -1,0 +1,6 @@
+[submodule "submodulo"]
+	path = submodulo
+	url = https://github.com/fagundesRafael/submodules.git
+[submodule "firebaseHooksJs"]
+	path = firebaseHooksJs
+	url = https://github.com/fagundesRafael/firebaseHooksJs.git
